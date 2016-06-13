@@ -1,0 +1,1 @@
+Un'applicazione in Flask per la gestione degli impegni
